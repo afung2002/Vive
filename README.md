@@ -1,5 +1,5 @@
-# Vive
-Vive dev challenge (One Week)
+# Vive dev challenge
+## Coding challenge (One Week)
 
 - Setup a private repo named "vive-coding-challenge-{your_gitub_username}" and add @afung2002 as a collaborator
 
